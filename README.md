@@ -1,2 +1,2 @@
 # my-first-repo
-Sample test page
+Sample test page for Git
